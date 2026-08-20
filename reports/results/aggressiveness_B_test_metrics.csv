@@ -1,0 +1,2 @@
+experiment,model,accuracy,precision,recall,f1,mcc,roc_auc,pr_auc
+B_without_larson_inputs,Random Forest,0.7543859649122807,0.8076923076923077,0.7,0.75,0.5160906899185141,0.832716049382716,0.8409634905045863

@@ -1,0 +1,29 @@
+experiment,model,metric,mean,std
+A_with_larson_inputs,Dummy Classifier,accuracy,0.5333333333333333,0.0
+A_with_larson_inputs,Dummy Classifier,precision,0.5333333333333333,0.0
+A_with_larson_inputs,Dummy Classifier,recall,1.0,0.0
+A_with_larson_inputs,Dummy Classifier,f1,0.6956521739130435,0.0
+A_with_larson_inputs,Dummy Classifier,roc_auc,0.5,0.0
+A_with_larson_inputs,Dummy Classifier,pr_auc,0.5333333333333333,0.0
+A_with_larson_inputs,Dummy Classifier,mcc,0.0,0.0
+A_with_larson_inputs,Logistic Regression,accuracy,0.8266666666666665,0.12122828175098538
+A_with_larson_inputs,Logistic Regression,precision,0.9324808184143223,0.11454374716208826
+A_with_larson_inputs,Logistic Regression,recall,0.7249999999999999,0.17199806200458576
+A_with_larson_inputs,Logistic Regression,f1,0.8082586065386177,0.14037297226232526
+A_with_larson_inputs,Logistic Regression,roc_auc,0.9496031746031746,0.07759534808767579
+A_with_larson_inputs,Logistic Regression,pr_auc,0.954104191757685,0.07236297713837841
+A_with_larson_inputs,Logistic Regression,mcc,0.6815355104941532,0.2293256327475664
+A_with_larson_inputs,Random Forest,accuracy,0.9066666666666666,0.045324617898602544
+A_with_larson_inputs,Random Forest,precision,0.9182564102564102,0.047907743359161266
+A_with_larson_inputs,Random Forest,recall,0.9083333333333334,0.0666666666666667
+A_with_larson_inputs,Random Forest,f1,0.9114891774891776,0.04405586976131735
+A_with_larson_inputs,Random Forest,roc_auc,0.9640873015873016,0.030054120998034117
+A_with_larson_inputs,Random Forest,pr_auc,0.9655630659698303,0.03000552336599489
+A_with_larson_inputs,Random Forest,mcc,0.8158783095844984,0.08869505893458897
+A_with_larson_inputs,SVM-RBF,accuracy,0.7511111111111111,0.0602873776277802
+A_with_larson_inputs,SVM-RBF,precision,0.9008403361344538,0.08188858968120898
+A_with_larson_inputs,SVM-RBF,recall,0.6083333333333332,0.11666666666666665
+A_with_larson_inputs,SVM-RBF,f1,0.716671449067432,0.08762983649620246
+A_with_larson_inputs,SVM-RBF,roc_auc,0.9091269841269842,0.0683346698982537
+A_with_larson_inputs,SVM-RBF,pr_auc,0.9168573219192941,0.06872988993443571
+A_with_larson_inputs,SVM-RBF,mcc,0.5485008730932133,0.10627394393528532

@@ -1,0 +1,4 @@
+Axe,Cible,Rôle scientifique,Meilleur modèle,F1 test,ROC-AUC test,PR-AUC test,MCC test
+Potabilité,Potability (0/1),Classification de potabilité,SVM-RBF,0.5118110236220472,0.6439746093749998,0.5661771229846237,0.2034013091560609
+Agressivité A — avec Cl/SO4/HCO3,Larson_corrosive (IC >= 1),Reproduction prédictive de la règle Larson,Random Forest,0.9,0.9450617283950618,0.9417471494751838,0.7888888888888889
+Agressivité B — sans Cl/SO4/HCO3,Larson_corrosive (IC >= 1),Prédiction indirecte / analyse d'ablation,Random Forest,0.75,0.832716049382716,0.8409634905045863,0.5160906899185141

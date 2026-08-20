@@ -1,0 +1,29 @@
+experiment,model,metric,mean,std
+B_without_larson_inputs,Dummy Classifier,accuracy,0.5333333333333333,0.0
+B_without_larson_inputs,Dummy Classifier,precision,0.5333333333333333,0.0
+B_without_larson_inputs,Dummy Classifier,recall,1.0,0.0
+B_without_larson_inputs,Dummy Classifier,f1,0.6956521739130435,0.0
+B_without_larson_inputs,Dummy Classifier,roc_auc,0.5,0.0
+B_without_larson_inputs,Dummy Classifier,pr_auc,0.5333333333333333,0.0
+B_without_larson_inputs,Dummy Classifier,mcc,0.0,0.0
+B_without_larson_inputs,Logistic Regression,accuracy,0.72,0.07900617259836079
+B_without_larson_inputs,Logistic Regression,precision,0.8145532245532244,0.10502646125124131
+B_without_larson_inputs,Logistic Regression,recall,0.6333333333333333,0.14288690166235207
+B_without_larson_inputs,Logistic Regression,f1,0.6998268398268397,0.10116378331641357
+B_without_larson_inputs,Logistic Regression,roc_auc,0.7674603174603175,0.10859103600913343
+B_without_larson_inputs,Logistic Regression,pr_auc,0.8327555914187996,0.08145082954595846
+B_without_larson_inputs,Logistic Regression,mcc,0.46832823409594126,0.1535386898498927
+B_without_larson_inputs,Random Forest,accuracy,0.7822222222222222,0.05515410509329269
+B_without_larson_inputs,Random Forest,precision,0.8189319279754063,0.0675748099720297
+B_without_larson_inputs,Random Forest,recall,0.7666666666666666,0.07264831572567788
+B_without_larson_inputs,Random Forest,f1,0.7891345252254462,0.05390678121693776
+B_without_larson_inputs,Random Forest,roc_auc,0.8547619047619047,0.04626293204424365
+B_without_larson_inputs,Random Forest,pr_auc,0.8780708994851987,0.059542688516101026
+B_without_larson_inputs,Random Forest,mcc,0.5690771780532988,0.11074909122427506
+B_without_larson_inputs,SVM-RBF,accuracy,0.7288888888888889,0.051448164012400995
+B_without_larson_inputs,SVM-RBF,precision,0.883095238095238,0.08323940284469275
+B_without_larson_inputs,SVM-RBF,recall,0.5750000000000001,0.1
+B_without_larson_inputs,SVM-RBF,f1,0.6893040293040293,0.07050131679150945
+B_without_larson_inputs,SVM-RBF,roc_auc,0.7972222222222223,0.08838077563383163
+B_without_larson_inputs,SVM-RBF,pr_auc,0.8526822582912628,0.07013513179469535
+B_without_larson_inputs,SVM-RBF,mcc,0.5074876953898559,0.09824369780549146
